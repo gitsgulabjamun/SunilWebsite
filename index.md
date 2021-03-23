@@ -1,6 +1,6 @@
 ---
 layout: template_index
-title: Sunil Profile
+title: Sunil's Profile
 ---
 
 # {{page.title}}
@@ -9,7 +9,4 @@ Hello All,
 
 My Name is Sunil Jadhav. Get to know more about me.
 
--  [My likes](./topics/Hobbies.md)
--  [Time and distance](topics/time_distance.md)
--  [Planets and stars](topics/planet_stars.md)
--  [Travelling on a rocket](topics/rockets_travelling.md)
+-  [My likes](topics/Hobbies.md)
