@@ -11,10 +11,9 @@ Hello All,
 My Name is Sunil Jadhav. Get to know more about me.
 
 -  [My likes](topics/Hobbies)
+-  [My Employment History]()
 
-I also do some `liquid`
-
-Following is a sample  code:
+I also do some `liquid` code:
 
 ```liquid
 {% if user %}
