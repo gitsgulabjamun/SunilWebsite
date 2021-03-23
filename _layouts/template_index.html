@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{ page.title }}</title>
+<meta name="Description" content="This is my test template">
+<link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+</head>
+	<body>
+	<header>
+	 <p><i>Assignment for Docs-as-Code training</i></p>
+	 <hr/>
+	</header>
+		<main>
+			<div>
+				{{ content }}
+			</div>
+		</main>
+		<footer>
+{% include footer.md %}
+		</footer>
+	</body>
+</html>
