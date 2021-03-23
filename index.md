@@ -13,6 +13,8 @@ My Name is Sunil Jadhav. Get to know more about me.
 -  [My likes](topics/Hobbies)
 -  [My Employment History]()
 
+site.data.csv
+
 I also do some `liquid` code:
 
 ```liquid
@@ -21,3 +23,5 @@ I also do some `liquid` code:
 {% endif %}
 
 ```
+
+My email address is {{site.email}}
