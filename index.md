@@ -13,6 +13,8 @@ My Name is Sunil Jadhav. Get to know more about me.
 -  [My likes](topics/Hobbies)
 -  [Employment History](topics/history)
 
+## Nerd alert!
+
 I have a cool reading list that may interest you. Following are some of my favorite books:
 
 {% for item in site.data.readinglist %}
@@ -40,5 +42,3 @@ github_username: gitsgulabjamun
 
 
 _This site was last updated at {{site.time}}_
-
-[Home sweet home!](index.md)
