@@ -1,5 +1,5 @@
 ---
-layout: template_indexFile
+layout: default
 title: Sunil's Profile
 author: Sunil Jadhav
 ---
