@@ -38,6 +38,7 @@ twitter_username: messwithsunil
 
 github_username: gitsgulabjamun
 
-[Home page](index.md)
 
-This site was last updated at {{site.time}}
+_This site was last updated at {{site.time}}_
+
+[Home sweet home!](index.md)
