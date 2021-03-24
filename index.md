@@ -16,18 +16,20 @@ My Name is Sunil Jadhav. Get to know more about me.
 
 Following is my employment history
 
-{% for item in site.data.source %}
- - {{ item.material }}: {{ item.source }}
-
+{% for item in site.data.workhistory %}
+- {{ item.Organization}}: {{ item.Title }}: {{ item.Department }}: {{ item.Location }}
+: {{ item.From }}: {{ item.To }}
 {% endfor %}
+
 
 
 I also do some `liquid` code:
 
-```liquid
+```
 {% if user %}
   Hello {{ user.name }}!
 {% endif %}
 ```
+
 
 My email address is {{site.email}}
