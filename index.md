@@ -28,11 +28,7 @@ I also do some `liquid` code:
 
 ```
 
-{% if Profile.PREFERED_LANGUAGE == "Spanish" %}
-Hola!
-{% elsif Profile.PREFERED_LANGUAGE == "English" %}
-Hello!
-{% endif %}
+{% raw %}{{ 5 | plus: 6 }}{% endraw %} equals 11.
 
 ```
 
