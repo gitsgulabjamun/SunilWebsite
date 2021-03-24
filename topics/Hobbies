@@ -1,4 +1,5 @@
 ---
+layout: template_indexFile
 ---
 
 Hello my name is {{page.author}}I have the following hobbies:
