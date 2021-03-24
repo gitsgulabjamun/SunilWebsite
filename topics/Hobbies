@@ -1,4 +1,7 @@
-I have the following hobbies:
+---
+---
+
+Hello my name is {{page.author}}I have the following hobbies:
 
 . Reading
 . Rooting Android Phones
