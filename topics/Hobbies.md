@@ -4,7 +4,7 @@ author: Sunil
 ---
 Hello my name is {{page.author}}. I have the following hobbies:
 
-- [Reading]()
+- [Reading](https://gitsgulabjamun.github.io/SunilWebsite/#nerd-alert)
 
 - Rooting Android Phones
 
