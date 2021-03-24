@@ -32,4 +32,4 @@ I also do some `liquid` code:
 ```
 
 
-My email address is {{site.email}}
+My email address is {{site.myemail}}
