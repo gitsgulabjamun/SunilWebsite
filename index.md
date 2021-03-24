@@ -10,8 +10,8 @@ Hello All,
 
 My Name is Sunil Jadhav. Get to know more about me.
 
--  [My likes](topics/Hobbies)
--  [Employment History](topics/history)
+-  [My likes](./topics/Hobbies)
+-  [Employment History](./topics/history)
 
 
 Following is my employment history
@@ -33,3 +33,8 @@ I also do some `liquid` code:
 
 
 My email address is {{site.myemail}}
+
+# Social Channels
+
+twitter_username: messwithsunil
+github_username: gitsgulabjamun
