@@ -43,3 +43,5 @@ My email address is {{site.myemail}}
 twitter_username: messwithsunil
 
 github_username: gitsgulabjamun
+
+This site was last updated at {{site.time}}
