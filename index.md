@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sunil's Profile
+title: Stay a while
 author: Sunil Jadhav
 ---
 
@@ -13,7 +13,7 @@ My Name is Sunil Jadhav. Get to know more about me.
 -  [My likes](topics/Hobbies)
 -  [Employment History](topics/history)
 
-I have a cool reading list that may interest you:
+I have a cool reading list that may interest you. Following are some of my favorite books:
 
 {% for item in site.data.readinglist %}
 - {{ item.book }}: {{ item.creator }}
