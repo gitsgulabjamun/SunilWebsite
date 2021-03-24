@@ -23,11 +23,10 @@ Following is my employment history
 
 I also do some `liquid` code:
 
-```liquid
+``liquid
 {% if user %}
   Hello {{ user.name }}!
 {% endif %}
-
-```
+``
 
 My email address is {{site.email}}
