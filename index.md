@@ -13,14 +13,11 @@ My Name is Sunil Jadhav. Get to know more about me.
 -  [My likes](topics/Hobbies)
 -  [Employment History](topics/history)
 
+I have a cool reading list that may interest you:
 
-Following is my employment history"
-
-{% for item in site.data.workhistory %}
--  {{ item.Organization}}: {{ item.Title }}: {{ item.Department }}: {{ item.Location }}
-: {{ item.From }}: {{ item.To }}
+{% for item in site.data.readinglist %}
+- {{ item.book }}: {{ item.creator }}
 {% endfor %}
-
 
 
 I also do some `liquid` code:
