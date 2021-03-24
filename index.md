@@ -25,10 +25,14 @@ Following is my employment history
 
 I also do some `liquid` code:
 
+
 ```
-{% if user %}
-  Hello {{ user.name }}!
+{% if Profile.PREFERED_LANGUAGE == "Spanish" %}
+Hola!
+{% elsif Profile.PREFERED_LANGUAGE == "English" %}
+Hello!
 {% endif %}
+
 ```
 
 
@@ -37,4 +41,5 @@ My email address is {{site.myemail}}
 # Social Channels
 
 twitter_username: messwithsunil
+
 github_username: gitsgulabjamun
