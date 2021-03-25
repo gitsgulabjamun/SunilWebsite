@@ -4,15 +4,12 @@
 <link rel="stylesheet" type="text/css" href="./assets/style.css">
 </head>
   <body>
-    {
-  background-color: lightblue;
-}
-  <header>{{page.title}}</header>
+  <header>When: {{ page.title }}</header>
     <main>
       <div>
         {{ content }}
       </div>
     </main>
-<footer>{% include footer.md %} </footer>
+<footer>{% include common_footer.txt %}</footer>
   </body>
 </html>
