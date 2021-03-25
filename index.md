@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: template_index
 title: Stay a while
 author: Sunil Jadhav
 ---
